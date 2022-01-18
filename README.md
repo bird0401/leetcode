@@ -8,26 +8,26 @@
 - [ ] Remove Duplicates from Sorted List (▶)
 - [ ] Remove Duplicates from Sorted List II (▶)
 - [ ] Add Two Numbers (▶)
-## Stack
+### Stack
 - [x] Valid Parentheses (▶)
 - [ ] Reverse Linked List
-## Heap, PriorityQueue
+### Heap, PriorityQueue
 - [x]  Kth Largest Element in a Stream
 - [ ] Top K Frequent Elements
 - [ ] Find K Pairs with Smallest Sums
-## HashMap
+### HashMap
 - [x] Two Sum
 - [ ] Group Anagrams
 - [ ] Intersection of Two Arrays
 - [ ] Unique Email Addresses
 - [ ] First Unique Character in a String
 - [ ] Subarray Sum Equals K
-## Graph, BFS, DFS
+### Graph, BFS, DFS
 - [x] Number of Islands
 - [ ] Max Area of Island
 - [ ] Number of Connected Components in an Undirected Graph
 - [ ] Word Ladder
-## Tree, BT, BST
+### Tree, BT, BST
 - [x] Maximum Depth of Binary Tree
 - [ ] Minimum Depth of Binary Tree
 - [ ] Merge Two Binary Trees
@@ -37,9 +37,9 @@
 - [ ] Binary Tree Zigzag Level Order Traversal
 - [ ] Validate Binary Search Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
-## Sort
+### Sort
 - [ ] Sorting Algorithms Animationsが参考になります。挿入ソートや基数ソートがどういうデータセットのときに、NLogN のソートと比べて優れているかを確認しましょう。それぞれのアルゴリズムの特徴を把握するとよいです。
-## Dynamic Programming
+### Dynamic Programming
 - [x] Paint Fence
 - [x] Longest Increasing Subsequence
 - [x] Maximum Subarray
@@ -51,24 +51,24 @@
 - [ ] Best Time to Buy and Sell Stock II
 - [ ] Word Break
 - [ ] Coin Change
-## Binary Search
+### Binary Search
 - [x] Search Insert Position
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
 - [ ] Capacity To Ship Packages Within D Days
-## Recursion
+### Recursion
 - [x] Pow(x, n)
 - [ ] K-th Symbol in Grammar
 - [ ] Split BST
-## Sliding Window
+### Sliding Window
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Minimum Size Subarray Sum
-## Greedy + Backtracking
+### Greedy + Backtracking
 - [ ] Permutations
 - [ ] Subsets
 - [ ] Combination Sum
 - [ ] Generate Parentheses
-## その他
+### その他
 これらの問題は総合的に考えて実装する問題です。
 
 - [ ] Move Zeroes
