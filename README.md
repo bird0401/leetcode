@@ -4,7 +4,7 @@
 [コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)から転載
 ### LinkedList
 - [x] Linked List Cycle (▶)
-- [ ] Linked List Cycle II (▶)
+- [x] Linked List Cycle II (▶)
 - [ ] Remove Duplicates from Sorted List (▶)
 - [ ] Remove Duplicates from Sorted List II (▶)
 - [ ] Add Two Numbers (▶)
@@ -61,10 +61,10 @@
 - [ ] K-th Symbol in Grammar
 - [ ] Split BST
 ### Sliding Window
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
 - [ ] Minimum Size Subarray Sum
 ### Greedy + Backtracking
-- [ ] Permutations
+- [x] Permutations
 - [ ] Subsets
 - [ ] Combination Sum
 - [ ] Generate Parentheses
