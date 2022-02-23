@@ -43,8 +43,8 @@
 - [x] Paint Fence
 - [x] Longest Increasing Subsequence
 - [x] Maximum Subarray
-- [ ] Unique Paths
-- [ ] Unique Paths II
+- [x] Unique Paths
+- [x] Unique Paths II
 - [ ] House Robber
 - [ ] House Robber II
 - [ ] Best Time to Buy and Sell Stock
