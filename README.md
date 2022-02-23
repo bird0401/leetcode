@@ -5,31 +5,31 @@
 ### LinkedList
 - [x] Linked List Cycle (▶)
 - [x] Linked List Cycle II (▶)
-- [ ] Remove Duplicates from Sorted List (▶)
+- [x] Remove Duplicates from Sorted List (▶)
 - [ ] Remove Duplicates from Sorted List II (▶)
 - [ ] Add Two Numbers (▶)
 ### Stack
 - [x] Valid Parentheses (▶)
-- [ ] Reverse Linked List
+- [x] Reverse Linked List
 ### Heap, PriorityQueue
 - [x]  Kth Largest Element in a Stream
-- [ ] Top K Frequent Elements
+- [x] Top K Frequent Elements
 - [ ] Find K Pairs with Smallest Sums
 ### HashMap
 - [x] Two Sum
-- [ ] Group Anagrams
+- [x] Group Anagrams
 - [ ] Intersection of Two Arrays
 - [ ] Unique Email Addresses
 - [ ] First Unique Character in a String
 - [ ] Subarray Sum Equals K
 ### Graph, BFS, DFS
 - [x] Number of Islands
-- [ ] Max Area of Island
+- [x] Max Area of Island
 - [ ] Number of Connected Components in an Undirected Graph
 - [ ] Word Ladder
 ### Tree, BT, BST
 - [x] Maximum Depth of Binary Tree
-- [ ] Minimum Depth of Binary Tree
+- [x] Minimum Depth of Binary Tree
 - [ ] Merge Two Binary Trees
 - [ ] Convert Sorted Array to Binary Search Tree
 - [ ] Path Sum
@@ -43,8 +43,8 @@
 - [x] Paint Fence
 - [x] Longest Increasing Subsequence
 - [x] Maximum Subarray
-- [ ] Unique Paths
-- [ ] Unique Paths II
+- [x] Unique Paths
+- [x] Unique Paths II
 - [ ] House Robber
 - [ ] House Robber II
 - [ ] Best Time to Buy and Sell Stock
