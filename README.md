@@ -30,7 +30,7 @@
 ### Tree, BT, BST
 - [x] Maximum Depth of Binary Tree
 - [x] Minimum Depth of Binary Tree
-- [ ] Merge Two Binary Trees
+- [x] Merge Two Binary Trees
 - [ ] Convert Sorted Array to Binary Search Tree
 - [ ] Path Sum
 - [ ] Binary Tree Level Order Traversal
