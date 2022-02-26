@@ -18,7 +18,7 @@
 ### HashMap
 - [x] Two Sum
 - [x] Group Anagrams
-- [ ] Intersection of Two Arrays
+- [x] Intersection of Two Arrays
 - [ ] Unique Email Addresses
 - [ ] First Unique Character in a String
 - [ ] Subarray Sum Equals K
@@ -65,7 +65,7 @@
 - [ ] Minimum Size Subarray Sum
 ### Greedy + Backtracking
 - [x] Permutations
-- [ ] Subsets
+- [x] Subsets
 - [ ] Combination Sum
 - [ ] Generate Parentheses
 ### その他
