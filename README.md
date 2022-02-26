@@ -53,12 +53,12 @@
 - [ ] Coin Change
 ### Binary Search
 - [x] Search Insert Position
-- [ ] Find Minimum in Rotated Sorted Array
+- [x] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
 - [ ] Capacity To Ship Packages Within D Days
 ### Recursion
 - [x] Pow(x, n)
-- [ ] K-th Symbol in Grammar
+- [x] K-th Symbol in Grammar
 - [ ] Split BST
 ### Sliding Window
 - [x] Longest Substring Without Repeating Characters
