@@ -45,8 +45,8 @@
 - [x] Maximum Subarray
 - [x] Unique Paths
 - [x] Unique Paths II
-- [ ] House Robber
-- [ ] House Robber II
+- [x] House Robber
+- [x] House Robber II
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Best Time to Buy and Sell Stock II
 - [ ] Word Break
