@@ -54,7 +54,7 @@
 ### Binary Search
 - [x] Search Insert Position
 - [x] Find Minimum in Rotated Sorted Array
-- [ ] Search in Rotated Sorted Array
+- [x] Search in Rotated Sorted Array
 - [ ] Capacity To Ship Packages Within D Days
 ### Recursion
 - [x] Pow(x, n)
@@ -66,7 +66,7 @@
 ### Greedy + Backtracking
 - [x] Permutations
 - [x] Subsets
-- [ ] Combination Sum
+- [x] Combination Sum
 - [ ] Generate Parentheses
 ### その他
 これらの問題は総合的に考えて実装する問題です。
