@@ -18,7 +18,7 @@
 ### HashMap
 - [x] Two Sum
 - [x] Group Anagrams
-- [ ] Intersection of Two Arrays
+- [x] Intersection of Two Arrays
 - [ ] Unique Email Addresses
 - [ ] First Unique Character in a String
 - [ ] Subarray Sum Equals K
@@ -30,7 +30,7 @@
 ### Tree, BT, BST
 - [x] Maximum Depth of Binary Tree
 - [x] Minimum Depth of Binary Tree
-- [ ] Merge Two Binary Trees
+- [x] Merge Two Binary Trees
 - [ ] Convert Sorted Array to Binary Search Tree
 - [ ] Path Sum
 - [ ] Binary Tree Level Order Traversal
@@ -45,28 +45,28 @@
 - [x] Maximum Subarray
 - [x] Unique Paths
 - [x] Unique Paths II
-- [ ] House Robber
-- [ ] House Robber II
+- [x] House Robber
+- [x] House Robber II
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Best Time to Buy and Sell Stock II
 - [ ] Word Break
 - [ ] Coin Change
 ### Binary Search
 - [x] Search Insert Position
-- [ ] Find Minimum in Rotated Sorted Array
-- [ ] Search in Rotated Sorted Array
+- [x] Find Minimum in Rotated Sorted Array
+- [x] Search in Rotated Sorted Array
 - [ ] Capacity To Ship Packages Within D Days
 ### Recursion
 - [x] Pow(x, n)
-- [ ] K-th Symbol in Grammar
+- [x] K-th Symbol in Grammar
 - [ ] Split BST
 ### Sliding Window
 - [x] Longest Substring Without Repeating Characters
 - [ ] Minimum Size Subarray Sum
 ### Greedy + Backtracking
 - [x] Permutations
-- [ ] Subsets
-- [ ] Combination Sum
+- [x] Subsets
+- [x] Combination Sum
 - [ ] Generate Parentheses
 ### その他
 これらの問題は総合的に考えて実装する問題です。
