@@ -31,7 +31,7 @@
 - [x] Maximum Depth of Binary Tree
 - [x] Minimum Depth of Binary Tree
 - [x] Merge Two Binary Trees
-- [ ] Convert Sorted Array to Binary Search Tree
+- [x] Convert Sorted Array to Binary Search Tree
 - [ ] Path Sum
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Zigzag Level Order Traversal
@@ -47,7 +47,7 @@
 - [x] Unique Paths II
 - [x] House Robber
 - [x] House Robber II
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [ ] Best Time to Buy and Sell Stock II
 - [ ] Word Break
 - [ ] Coin Change
@@ -55,7 +55,7 @@
 - [x] Search Insert Position
 - [x] Find Minimum in Rotated Sorted Array
 - [x] Search in Rotated Sorted Array
-- [ ] Capacity To Ship Packages Within D Days
+- [x] Capacity To Ship Packages Within D Days
 ### Recursion
 - [x] Pow(x, n)
 - [x] K-th Symbol in Grammar
