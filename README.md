@@ -7,14 +7,14 @@
 - [x] Linked List Cycle II (▶)
 - [x] Remove Duplicates from Sorted List (▶)
 - [x] Remove Duplicates from Sorted List II (▶)
-- [ ] Add Two Numbers (▶)
+- [x] Add Two Numbers (▶)
 ### Stack
 - [x] Valid Parentheses (▶)
 - [x] Reverse Linked List
 ### Heap, PriorityQueue
 - [x]  Kth Largest Element in a Stream
 - [x] Top K Frequent Elements
-- [ ] Find K Pairs with Smallest Sums
+- [x] Find K Pairs with Smallest Sums
 ### HashMap
 - [x] Two Sum
 - [x] Group Anagrams
