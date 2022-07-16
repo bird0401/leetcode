@@ -1,7 +1,8 @@
-# leetcode
-解いたら入れてく
+# LeetCode
+Check lists
+
 ## コーディング面接対策のために解きたいLeetCode 60問
-[コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)から転載
+From [コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)
 ### LinkedList
 - [x] Linked List Cycle (▶)
 - [x] Linked List Cycle II (▶)
@@ -20,8 +21,8 @@
 - [x] Group Anagrams
 - [x] Intersection of Two Arrays
 - [x] Unique Email Addresses
-- [ ] First Unique Character in a String
-- [ ] Subarray Sum Equals K
+- [x] First Unique Character in a String
+- [x] Subarray Sum Equals K
 ### Graph, BFS, DFS
 - [x] Number of Islands
 - [x] Max Area of Island
