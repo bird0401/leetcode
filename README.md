@@ -26,7 +26,7 @@ From [コーディング面接対策のために解きたいLeetCode 60問](http
 ### Graph, BFS, DFS
 - [x] Number of Islands
 - [x] Max Area of Island
-- [ ] Number of Connected Components in an Undirected Graph **(not exist)**
+- [x] Number of Connected Components in an Undirected Graph **(not exist)**
 - [x] Word Ladder
 ### Tree, BT, BST
 - [x] Maximum Depth of Binary Tree
@@ -39,7 +39,7 @@ From [コーディング面接対策のために解きたいLeetCode 60問](http
 - [x] Validate Binary Search Tree
 - [x] Construct Binary Tree from Preorder and Inorder Traversal
 ### Sort
-- [ ] Sorting Algorithms Animationsが参考になります。挿入ソートや基数ソートがどういうデータセットのときに、NLogN のソートと比べて優れているかを確認しましょう。それぞれのアルゴリズムの特徴を把握するとよいです。
+- [x] Sorting Algorithms Animationsが参考になります。挿入ソートや基数ソートがどういうデータセットのときに、NLogN のソートと比べて優れているかを確認しましょう。それぞれのアルゴリズムの特徴を把握するとよいです。
 ### Dynamic Programming
 - [x] Paint Fence
 - [x] Longest Increasing Subsequence
@@ -49,9 +49,9 @@ From [コーディング面接対策のために解きたいLeetCode 60問](http
 - [x] House Robber
 - [x] House Robber II
 - [x] Best Time to Buy and Sell Stock
-- [ ] Best Time to Buy and Sell Stock II
-- [ ] Word Break
-- [ ] Coin Change
+- [x] Best Time to Buy and Sell Stock II
+- [x] Word Break
+- [x] Coin Change
 ### Binary Search
 - [x] Search Insert Position
 - [x] Find Minimum in Rotated Sorted Array
@@ -70,8 +70,6 @@ From [コーディング面接対策のために解きたいLeetCode 60問](http
 - [x] Combination Sum
 - [ ] Generate Parentheses
 ### その他
-これらの問題は総合的に考えて実装する問題です。
-
 - [ ] Move Zeroes
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
