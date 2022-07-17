@@ -36,8 +36,8 @@ From [コーディング面接対策のために解きたいLeetCode 60問](http
 - [x] Path Sum
 - [x] Binary Tree Level Order Traversal
 - [x] Binary Tree Zigzag Level Order Traversal
-- [ ] Validate Binary Search Tree
-- [ ] Construct Binary Tree from Preorder and Inorder Traversal
+- [x] Validate Binary Search Tree
+- [x] Construct Binary Tree from Preorder and Inorder Traversal
 ### Sort
 - [ ] Sorting Algorithms Animationsが参考になります。挿入ソートや基数ソートがどういうデータセットのときに、NLogN のソートと比べて優れているかを確認しましょう。それぞれのアルゴリズムの特徴を把握するとよいです。
 ### Dynamic Programming
