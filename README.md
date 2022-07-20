@@ -60,10 +60,10 @@ From [コーディング面接対策のために解きたいLeetCode 60問](http
 ### Recursion
 - [x] Pow(x, n)
 - [x] K-th Symbol in Grammar
-- [ ] Split BST
+- [x] Split BST **(not exist)**
 ### Sliding Window
 - [x] Longest Substring Without Repeating Characters
-- [ ] Minimum Size Subarray Sum
+- [x] Minimum Size Subarray Sum
 ### Greedy + Backtracking
 - [x] Permutations
 - [x] Subsets
