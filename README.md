@@ -68,12 +68,12 @@ From [コーディング面接対策のために解きたいLeetCode 60問](http
 - [x] Permutations
 - [x] Subsets
 - [x] Combination Sum
-- [ ] Generate Parentheses
+- [x] Generate Parentheses
 ### その他
-- [ ] Move Zeroes
+- [x] Move Zeroes
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
-- [ ] Is Subsequence
-- [ ] Next Permutation
+- [x] Is Subsequence
+- [x] Next Permutation
 - [ ] String to Integer (atoi)
 - [ ] ZigZag Conversion
