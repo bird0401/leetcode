@@ -71,8 +71,8 @@ From [コーディング面接対策のために解きたいLeetCode 60問](http
 - [x] Generate Parentheses
 ### その他
 - [x] Move Zeroes
-- [ ] Meeting Rooms
-- [ ] Meeting Rooms II
+- [x] Meeting Rooms **(not exist)**
+- [x] Meeting Rooms II **(not exist)**
 - [x] Is Subsequence
 - [x] Next Permutation
 - [ ] String to Integer (atoi)
