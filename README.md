@@ -75,5 +75,5 @@ From [コーディング面接対策のために解きたいLeetCode 60問](http
 - [x] Meeting Rooms II **(not exist)**
 - [x] Is Subsequence
 - [x] Next Permutation
-- [ ] String to Integer (atoi)
-- [ ] ZigZag Conversion
+- [x] String to Integer (atoi)
+- [x] ZigZag Conversion
